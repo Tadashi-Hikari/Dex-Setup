@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~/Navi/target/uberjar ; java -jar netnavi-0.0.1-CLI-standalone.jar ; cd
