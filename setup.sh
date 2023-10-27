@@ -1,0 +1,1 @@
+cp emacs ~/.emacs
