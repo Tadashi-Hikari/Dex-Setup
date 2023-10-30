@@ -1,0 +1,1 @@
+alias navi="cd ~/Navi; lein run; cd"

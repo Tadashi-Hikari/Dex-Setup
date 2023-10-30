@@ -1,4 +1,6 @@
 (menu-bar-mode 0)
+(tool-bar-mode 0)
+(scroll-bar-mode 0)
 
 (require 'package)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
@@ -13,5 +15,6 @@
  )
 
 (ample-theme)
-(set-face-attribute 'default nil :font "Ubuntu")
+;(set-face-attribute 'default nil :font "Ubuntu")
+(set-face-attribute 'default nil :height 120)
 
