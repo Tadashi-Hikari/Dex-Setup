@@ -1,0 +1,3 @@
+/termux/vnc-pid
+# ignore my emacs autosaves
+*~
