@@ -1,0 +1,1 @@
+Username = %USERNAME% or $env:USERNAME (cmd.exe vs PowerShell)
